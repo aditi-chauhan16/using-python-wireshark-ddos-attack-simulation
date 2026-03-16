@@ -61,20 +61,19 @@ udp
 ### Result
 The observed behavior resembles a UDP flood attack where high volumes of UDP traffic are sent to overwhelm the target system.
 
----
-
 ## Project Structure
+
+```
 ddos-analysis/
 │
 ├── syn_test.py
 ├── udp_test.py
 ├── screenshots/
-│ ├── syn_capture.png
-│ ├── udp_capture.png
-│ └── packet_details.png
+│   ├── syn_capture.png
+│   ├── udp_capture.png
+│   └── packet_details.png
 └── README.md
-
----
+```
 
 ## Conclusion
 This experiment demonstrated how Python can be used to generate network traffic and how packet analysis tools like Wireshark can be used to analyze suspicious traffic patterns. Understanding these traffic patterns helps in detecting and mitigating denial-of-service attacks.

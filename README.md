@@ -88,5 +88,5 @@ This project was conducted strictly in a controlled lab environment for educatio
 ## Author
 Aditi Chauhan  
 B.Tech (Computer Science)  
-Network Security Lab Assignment
+Network Security Assignment
 
